@@ -7,6 +7,6 @@
     <title>Codespaces</title>
 </head>
 <body>
-    <h1>This is codespaces test repo</h1>
+    <h1>This is codespaces test repo <?= ";)" ?></h1>
 </body>
 </html>
