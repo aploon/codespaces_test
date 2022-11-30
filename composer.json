@@ -1,6 +1,6 @@
 {
     "require": {
         "symfony/var-dumper": "^5.4",
-        "ramsey/uuid": "^4.2",
+        "ramsey/uuid": "^4.2"
     }
 }
